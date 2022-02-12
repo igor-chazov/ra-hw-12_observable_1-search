@@ -1,6 +1,6 @@
 # 12. Домашнее задание к лекции «Redux Observable»
 
-[[GithubPages](https://igor-chazov.github.io/ra-hw-12_observable_1-search)]
+[![Build status](https://ci.appveyor.com/api/projects/status/t36swlamj133k9vn?svg=true)](https://ci.appveyor.com/project/igor-chazov/ra-hw-12-observable-1-search) [[GithubPages](https://igor-chazov.github.io/ra-hw-12_observable_1-search)]
 
 ---
 
